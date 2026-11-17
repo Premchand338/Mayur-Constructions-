@@ -1,0 +1,6 @@
+{
+  "name": "Mayur Command Center",
+  "description": "Operations and financial control platform demo for Mayur Constructions across Maharashtra road projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
